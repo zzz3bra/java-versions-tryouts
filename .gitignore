@@ -1,4 +1,6 @@
 target/
+.idea/
+createDDL.jdbc
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
